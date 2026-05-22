@@ -1,0 +1,39 @@
+{
+  "name": "comic-studio",
+  "version": "0.1.0",
+  "description": "Public comic and short-video production workflow plugin for story planning, storyboard review, creative quality checks, and publishing preflight.",
+  "author": {
+    "name": "Comic Studio Maintainers",
+    "url": "https://github.com/clairelily2020/comic-studio"
+  },
+  "homepage": "https://github.com/clairelily2020/comic-studio",
+  "repository": "https://github.com/clairelily2020/comic-studio",
+  "license": "MIT",
+  "keywords": [
+    "comic",
+    "storyboard",
+    "short-video",
+    "animation",
+    "visual-storytelling",
+    "creative-workflow",
+    "preflight"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Comic Studio",
+    "shortDescription": "Comic and short-video workflow",
+    "longDescription": "A public plugin for comic and short-video creators: turn rough ideas into production briefs, plan scripts and storyboards, review creative work from multiple roles, and run publishing preflight checks.",
+    "developerName": "Comic Studio Maintainers",
+    "category": "Creative",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Turn this idea into a comic production brief",
+      "Review this storyboard",
+      "Check this short video before publishing"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "comic-studio",
+  "description": "Public comic and short-video production workflow plugin for story planning, storyboard review, creative quality checks, and publishing preflight.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Comic Studio Maintainers",
+    "url": "https://github.com/clairelily2020/comic-studio"
+  },
+  "license": "MIT"
+}
